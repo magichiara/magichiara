@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chiara!</h1>
 <h3 align="center">As a Communication and Design graduate, I have developed skills in the field of UX/UI design. Throughout my career, I have decided to expand my skills by learning to program in the Front-End domain. I am always searching for new opportunities to grow professionally and to contribute to the creation of increasingly engaging and intuitive user experiences.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magichiara" alt="magichiara" /></a> </p>
-
 - 📫 How to reach me **info.chiaramaggio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
