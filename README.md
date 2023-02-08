@@ -31,6 +31,6 @@
 <span>![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)</span>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=magichiara&show_icons=true&theme=dark&locale=en&layout=compact" alt="magichiara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=magichiara&show_icons=true&theme=radical&locale=en&layout=compact" alt="magichiara" /></p>
 
 
