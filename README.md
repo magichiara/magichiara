@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Chiara! 💫 </h1>
+<h1 align="left">Hi, I'm Chiara! ⚡ </h1>
 <p align="left">As a Communication and Design graduate, I have developed skills in the field of UX/UI design. Throughout my career, I have decided to expand my skills by learning to program in the Front-End domain. I am always searching for new opportunities to grow professionally and to contribute to the creation of increasingly engaging and intuitive user experiences.</p>
 
 <h4>📫 How to reach me **info.chiaramaggio@gmail.com**</h4>
